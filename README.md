@@ -117,6 +117,7 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Contato
 
-- Autor: Seu Nome
-- Email: seu-email@example.com
-- GitHub: [seu-usuario](https://github.com/seu-usuario)
+- Autores: Gabriel Menezes / Bruce Vinicius
+- Email: gabrielmenezesrezende@gmail.com / bruce.vinicius.bv@gmail.com
+- GitHub: ((https://github.com/gabrielmenezesr)) (https://github.com/brucemonteiro)
+- 
