@@ -21,38 +21,9 @@ FootballShirtsStore é um sistema de vendas de camisas de futebol desenvolvido e
 
 ## Estrutura do Projeto
 
-FootballShirtsStore/
-├── images/
-│ ├── messi.jpg
-│ ├── ronaldo.jpg
-│ ├── neymar.jpg
-│ ├── mbappe.jpg
-│ └── salah.jpg
-├── src/
-│ ├── database/
-│ │ └── Database.java
-│ ├── models/
-│ │ ├── Pessoa.java
-│ │ ├── Cliente.java
-│ │ ├── Vendedor.java
-│ │ ├── Produto.java
-│ │ ├── Venda.java
-│ │ ├── ItemVenda.java
-│ │ ├── Carrinho.java
-│ │ ├── FormaPagamento.java
-│ │ └── Estoque.java
-│ ├── views/
-│ │ ├── MainView.java
-│ │ ├── LoginView.java
-│ │ ├── CartView.java
-│ │ └── PaymentView.java
-│ ├── controllers/
-│ │ ├── MainController.java
-│ │ ├── LoginController.java
-│ │ ├── CartController.java
-│ │ └── PaymentController.java
-│ └── App.java
-└── FootballShirtsStore.iml
+![Descrição do GIF](https://github.com/gabrielmenezesr/trabalhoFinal/blob/main/FootballShirtsStore/imagens/Captura%20de%20tela%202024-06-20%20102815.png)
+
+
 
 
 ## Instalação e Execução
