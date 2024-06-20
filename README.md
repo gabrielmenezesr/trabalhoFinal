@@ -109,7 +109,7 @@ FootballShirtsStore/
 
 ## Rodando 
 
-![Descrição do GIF](file:///C:/Users/Gabriel/Pictures/gifprojeto.gif)
+![GIFPROJETO]((https://github.com/gabrielmenezesr/trabalhoFinal/blob/main/FootballShirtsStore/imagens/gifprojeto.gif))
 
 
 
