@@ -23,36 +23,37 @@ FootballShirtsStore é um sistema de vendas de camisas de futebol desenvolvido e
 
 FootballShirtsStore/
 ├── images/
-│ ├── messi.jpg
-│ ├── ronaldo.jpg
-│ ├── neymar.jpg
-│ ├── mbappe.jpg
-│ └── salah.jpg
+│   ├── messi.jpg
+│   ├── ronaldo.jpg
+│   ├── neymar.jpg
+│   ├── mbappe.jpg
+│   └── salah.jpg
 ├── src/
-│ ├── database/
-│ │ └── Database.java
-│ ├── models/
-│ │ ├── Pessoa.java
-│ │ ├── Cliente.java
-│ │ ├── Vendedor.java
-│ │ ├── Produto.java
-│ │ ├── Venda.java
-│ │ ├── ItemVenda.java
-│ │ ├── Carrinho.java
-│ │ ├── FormaPagamento.java
-│ │ └── Estoque.java
-│ ├── views/
-│ │ ├── MainView.java
-│ │ ├── LoginView.java
-│ │ ├── CartView.java
-│ │ └── PaymentView.java
-│ ├── controllers/
-│ │ ├── MainController.java
-│ │ ├── LoginController.java
-│ │ ├── CartController.java
-│ │ └── PaymentController.java
-│ └── App.java
+│   ├── database/
+│   │   └── Database.java
+│   ├── models/
+│   │   ├── Pessoa.java
+│   │   ├── Cliente.java
+│   │   ├── Vendedor.java
+│   │   ├── Produto.java
+│   │   ├── Venda.java
+│   │   ├── ItemVenda.java
+│   │   ├── Carrinho.java
+│   │   ├── FormaPagamento.java
+│   │   └── Estoque.java
+│   ├── views/
+│   │   ├── MainView.java
+│   │   ├── LoginView.java
+│   │   ├── CartView.java
+│   │   └── PaymentView.java
+│   ├── controllers/
+│   │   ├── MainController.java
+│   │   ├── LoginController.java
+│   │   ├── CartController.java
+│   │   └── PaymentController.java
+│   └── App.java
 └── FootballShirtsStore.iml
+
 
 
 ## Instalação e Execução
