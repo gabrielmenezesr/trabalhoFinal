@@ -107,6 +107,12 @@ FootballShirtsStore/
 - **Integração com APIs de Pagamento**: Integrar com APIs reais como Stripe ou PayPal.
 - **Testes Unitários**: Adicionar testes unitários e de integração para garantir a funcionalidade do sistema.
 
+## Rodando 
+
+![Descrição do GIF](file:///C:/Users/Gabriel/Pictures/gifprojeto.gif)
+
+
+
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorar o projeto.
